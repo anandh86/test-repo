@@ -1,0 +1,2 @@
+TradeId,TraderId,Symbol,Quantity,Price,TradeDate,Action
+1,101,AAPL,50,175.25,2024-06-01,Buy
